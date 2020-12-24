@@ -1,0 +1,60 @@
+body {
+	background-color:black;
+	background-image: url(https://st2.depositphotos.com/1172243/5471/i/600/depositphotos_54716043-stock-photo-black-brick-wall-for-background.jpg)
+}
+
+.main{
+	text-align: center
+}
+
+p {
+	font-size: 25px;
+	font-family: Verdana;
+
+	}
+
+h1{
+	font-style: italic;
+
+	}
+
+h3 {
+	font-style: italic;
+	font-size: 28px;
+}
+
+.sm{
+	font-size: 25px;
+	font-family: Verdana;
+}
+
+ol{
+	font-size: 25px;
+	font-family: Verdana;
+}
+
+.photo {
+	font-size: 25px;
+	font-style: italic;
+}
+
+ul{
+	font-size: 25px;
+	font-family: Verdana;
+}
+
+
+
+.title{
+		font-size: 40px;
+		font-weight: 700px;
+}
+
+body {
+	background-image: url(fon.jpg); 
+	color: #83D3FD;
+}
+
+.menu{
+	word-spacing: 50px;
+}
